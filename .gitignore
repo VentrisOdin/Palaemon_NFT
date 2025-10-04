@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Environment variables (NEVER commit private keys!)
+.env
+.env.local
+.env.production
+.env.development
+
+# Build outputs
+artifacts/
+cache/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hardhat files
+typechain/
+typechain-types/
+
+# Coverage reports
+coverage/
+coverage.json
+
+# Temporary files
+*.tmp
+*.temp
