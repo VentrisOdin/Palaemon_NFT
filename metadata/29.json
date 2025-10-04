@@ -1,0 +1,33 @@
+{
+  "name": "Palaemon Water Guardian #29",
+  "description": "Master of aquatic rescues, this Palaemon commands the waves and protects all maritime travelers.",
+  "image": "ipfs://YOUR_CID/pal_water.png",
+  "external_url": "https://palaemon.example/nft/29",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Global Missions"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Maritime Rescue"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Aquatic"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 30
+}

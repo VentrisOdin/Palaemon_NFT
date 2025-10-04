@@ -1,0 +1,33 @@
+{
+  "name": "Palaemon Wildfire Hero #30",
+  "description": "On the wildfire frontlines, this brave Palaemon fights flames with unwavering courage and advanced rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_wildfire.png",
+  "external_url": "https://palaemon.example/nft/30",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Global Missions"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Wildfire Frontline"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Fire/Heat"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 31
+}

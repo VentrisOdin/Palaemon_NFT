@@ -1,0 +1,25 @@
+{
+  "name": "Palaemon Detective #12",
+  "description": "Master investigator of the Palaemon order, solving maritime mysteries and uncovering threats to ocean safety.",
+  "image": "ipfs://YOUR_CID/pal_detective.jpeg",
+  "external_url": "https://palaemon.example/nft/12",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Field Medic Missions"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 13
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Palaemon Genesis #0",
+  "description": "The genesis NFT of the Palaemon collection, representing the birth of maritime rescue heroism in the digital age.",
+  "image": "ipfs://YOUR_CID/0be35c2f-6289-4a7c-aa76-bc030c8feb25.png",
+  "external_url": "https://palaemon.example/nft/0",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Core Rescue Team"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Legendary"
+    }
+  ],
+  "edition": 1
+}

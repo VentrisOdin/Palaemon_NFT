@@ -1,0 +1,25 @@
+{
+  "name": "Palaemon Coin Bearer #9",
+  "description": "A dedicated member of the Palaemon rescue force, trained in advanced life-saving techniques and equipped with cutting-edge rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_coin.jpeg",
+  "external_url": "https://palaemon.example/nft/9",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Crypto-Hero Moments"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "$PAL Coin"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Rare"
+    }
+  ],
+  "edition": 10
+}

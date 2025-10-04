@@ -1,0 +1,33 @@
+{
+  "name": "Palaemon Desert Relief #11",
+  "description": "A dedicated member of the Palaemon rescue force, trained in advanced life-saving techniques and equipped with cutting-edge rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_desert.png",
+  "external_url": "https://palaemon.example/nft/11",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Global Missions"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Desert Relief"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 12
+}

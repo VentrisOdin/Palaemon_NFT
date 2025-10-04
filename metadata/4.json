@@ -1,0 +1,37 @@
+{
+  "name": "Palaemon Mariner #4",
+  "description": "A dedicated member of the Palaemon rescue force, trained in advanced life-saving techniques and equipped with cutting-edge rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_boat.png",
+  "external_url": "https://palaemon.example/nft/4",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Core Rescue Team"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Flood Response"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Aquatic"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Rescue Boat"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 5
+}

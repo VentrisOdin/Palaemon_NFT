@@ -1,0 +1,29 @@
+{
+  "name": "Palaemon Hero #20",
+  "description": "The legendary Palaemon hero stands proud, embodying courage and maritime protection for all who venture into dangerous waters.",
+  "image": "ipfs://YOUR_CID/pal_hero_logo.png",
+  "external_url": "https://palaemon.example/nft/20",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Legendary Editions"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Hero Portrait"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Palaemon Logo"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Legendary"
+    }
+  ],
+  "edition": 21
+}

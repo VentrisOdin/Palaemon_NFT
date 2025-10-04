@@ -1,0 +1,29 @@
+{
+  "name": "Palaemon Forge Master #8",
+  "description": "Blacksmith hero forges the sacred $PAL coins in the fires of determination, each strike creating value and hope.",
+  "image": "ipfs://YOUR_CID/pal_coin_forge.png",
+  "external_url": "https://palaemon.example/nft/8",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Crypto-Hero Moments"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Coin Forge"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "$PAL Coin"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Rare"
+    }
+  ],
+  "edition": 9
+}

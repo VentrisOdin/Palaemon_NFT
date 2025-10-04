@@ -1,0 +1,29 @@
+{
+  "name": "Palaemon King #21",
+  "description": "A regal Palaemon ruler commanding the seas with wisdom, strength, and an unwavering commitment to rescue operations.",
+  "image": "ipfs://YOUR_CID/pal_king.png",
+  "external_url": "https://palaemon.example/nft/21",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Legendary Editions"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Founder's Legacy"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Legendary"
+    }
+  ],
+  "edition": 22
+}

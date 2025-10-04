@@ -1,0 +1,8 @@
+{
+  "name": "Palaemon NFT Collection",
+  "description": "A collection of 32 unique Palaemon NFTs inspired by the Greek deity of rescue and maritime protection. Each NFT represents heroic rescue missions, crypto innovations, and legendary moments in the Palaemon universe.",
+  "image": "ipfs://YOUR_CID/pal_hero_logo.png",
+  "external_link": "https://palaemon.example",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "YOUR_WALLET_ADDRESS_HERE"
+}

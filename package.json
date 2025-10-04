@@ -1,0 +1,33 @@
+{
+  "name": "palaemon-nft-bsc",
+  "version": "1.0.0",
+  "description": "A project to create and manage NFTs on the Binance Smart Chain using the Palaemon NFT contract.",
+  "main": "scripts/deploy.js",
+  "scripts": {
+    "deploy": "node scripts/deploy.js",
+    "mint": "node scripts/mint.js",
+    "verify": "node scripts/verify.js",
+    "test": "hardhat test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^10.0.0",
+    "hardhat": "^2.6.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  },
+  "keywords": [
+    "NFT",
+    "Binance Smart Chain",
+    "Ethereum",
+    "Smart Contracts"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  }
+}

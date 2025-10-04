@@ -1,0 +1,29 @@
+{
+  "name": "Palaemon Supply Drop #3",
+  "description": "A dedicated member of the Palaemon rescue force, trained in advanced life-saving techniques and equipped with cutting-edge rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_ba_bags.png",
+  "external_url": "https://palaemon.example/nft/3",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Core Rescue Team"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Supply Bags"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 4
+}

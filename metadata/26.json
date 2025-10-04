@@ -1,0 +1,29 @@
+{
+  "name": "Palaemon Super Hero #26",
+  "description": "A dedicated member of the Palaemon rescue force, trained in advanced life-saving techniques and equipped with cutting-edge rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_superhero.png",
+  "external_url": "https://palaemon.example/nft/26",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Legendary Editions"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Hero Portrait"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Palaemon Logo"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Legendary"
+    }
+  ],
+  "edition": 27
+}

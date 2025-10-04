@@ -1,0 +1,29 @@
+{
+  "name": "Palaemon Guardian #18",
+  "description": "Eternal protector of sailors and those lost at sea, wielding ancient powers to shield the innocent from harm.",
+  "image": "ipfs://YOUR_CID/pal_guardian.png",
+  "external_url": "https://palaemon.example/nft/18",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Core Rescue Team"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "Crypto Guardian"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Rare"
+    }
+  ],
+  "edition": 19
+}

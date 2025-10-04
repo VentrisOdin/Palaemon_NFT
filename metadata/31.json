@@ -1,0 +1,25 @@
+{
+  "name": "Palaemon Winch Operator #31",
+  "description": "Elite rescue specialist operating winch systems for high-altitude and maritime operations across all terrains.",
+  "image": "ipfs://YOUR_CID/pal_winchman.png",
+  "external_url": "https://palaemon.example/nft/31",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Field Medic Missions"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 32
+}

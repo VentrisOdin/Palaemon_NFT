@@ -1,0 +1,25 @@
+{
+  "name": "Palaemon Medic #6",
+  "description": "A dedicated member of the Palaemon rescue force, trained in advanced life-saving techniques and equipped with cutting-edge rescue technology.",
+  "image": "ipfs://YOUR_CID/pal_chart_cpr.jpeg",
+  "external_url": "https://palaemon.example/nft/6",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Field Medic Missions"
+    },
+    {
+      "trait_type": "Stethoscope",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Branding",
+      "value": "Both"
+    },
+    {
+      "trait_type": "Rarity Hint",
+      "value": "Core"
+    }
+  ],
+  "edition": 7
+}
